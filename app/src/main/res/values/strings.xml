@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HealthKeep</string>
+    <string name="navHome">首页</string>
+    <string name="navMine">我的</string>
 </resources>
